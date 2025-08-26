@@ -8,10 +8,10 @@
 
 - :Universidad: Estudiante del décimo ciclo de la carrera de Ingenieria de sistemas de la [Universidad de Lima (UL)](https://www.ulima.edu.pe/)
 - :technologist: Me encanta usar software como solución para cada `problema`.
-- :student: Actualmente estoy terminando mi titulacion 
+- :student: Actualmente estoy terminando mi bachiller
 - :nerd_face: Siempre `aprendiendo cosas nuevas`.
-- :thinking: Actualmente estoy abierto a una nueva `oportunidad laboral`, este es [mi cv]().
-- :boom: Puedes visitarme en [MY WEBSITE](https://portafolio-web-drab.vercel.app/).
+- :thinking: Es}stoy abierto a una nueva `oportunidad laboral`, este es [mi cv]().
+- :boom: Puedes visitarme en [MY WEBSITE](https://bryanavalosloaypardo.netlify.app/).
 <br>
 <br>
 
