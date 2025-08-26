@@ -1,12 +1,51 @@
-# React + Vite
+# 👨‍💻 Mi Portafolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bienvenido a mi portafolio personal.  
+Aquí encontrarás una recopilación de mis **proyectos más destacados**, junto con información sobre mí y mi trayectoria en el mundo del desarrollo de software.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Sobre mí
+Soy un apasionado de la tecnología y el desarrollo de software.  
+Me gusta crear proyectos que resuelvan problemas reales y a la vez me permitan aprender nuevas herramientas, metodologías y buenas prácticas.  
 
-## Expanding the ESLint configuration
+- 🌱 Actualmente aprendiendo y perfeccionando mis conocimientos en **[tecnologías que quieras destacar]**  
+- 💡 Interesado en **[temas o áreas que te apasionen, ej: IA, backend, apps móviles, ciberseguridad]**  
+- 🎯 Objetivo: crecer como profesional y aportar soluciones de impacto  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Proyectos Destacados
+Aquí algunos de mis proyectos que podrás explorar en este portafolio:
+
+| Proyecto | Descripción | Tecnologías |
+|----------|-------------|-------------|
+| 🔗 [Nombre del Proyecto 1](URL) | Breve descripción de qué hace y por qué es importante | `React` · `Node.js` · `MongoDB` |
+| 🔗 [Nombre del Proyecto 2](URL) | Breve descripción destacando el aprendizaje o solución aportada | `Flutter` · `Firebase` |
+| 🔗 [Nombre del Proyecto 3](URL) | Breve descripción breve pero llamativa | `Python` · `FastAPI` |
+
+*(Puedes ir completando con enlaces y detalles de tus proyectos reales)*  
+
+---
+
+## 🛠️ Tecnologías & Herramientas
+Algunas de las herramientas con las que trabajo:
+
+- **Lenguajes:** JavaScript · TypeScript · Python · PHP  
+- **Frameworks:** React · Flutter · NestJS · Laravel  
+- **Bases de datos:** MySQL · PostgreSQL · MongoDB  
+- **Otros:** Git · Docker · Linux · Figma  
+
+---
+
+## 📫 Contacto
+¿Quieres saber más de mí o colaborar en un proyecto?  
+Puedes encontrarme en:  
+
+- 💼 [LinkedIn](https://linkedin.com/)  
+- 📧 [Email](mailto:tuemail@correo.com)  
+- 🌐 [Mi Web/Portafolio](https://tusitio.com)  
+
+---
+
+⭐️ ¡Gracias por visitar mi portafolio! Siéntete libre de revisar los proyectos y dejar tus comentarios.
