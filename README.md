@@ -84,7 +84,7 @@ Aquí algunos de mis proyectos que podrás explorar en este portafolio:
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
-| 🔗 [Nombre del Proyecto 1](URL) | Breve descripción de qué hace y por qué es importante | `React` · `Node.js` · `MongoDB` |
+| 🔗 [Factzil](https://factzil.com/) | Este es un sistema de facturación electrónica, cuenta con varios módulos como ventas, compras, inventarios | `React` · `Laravel` · `MySql` · `Greenter` |
 | 🔗 [Nombre del Proyecto 2](URL) | Breve descripción destacando el aprendizaje o solución aportada | `Flutter` · `Firebase` |
 | 🔗 [Nombre del Proyecto 3](URL) | Breve descripción breve pero llamativa | `Python` · `FastAPI` |
 
