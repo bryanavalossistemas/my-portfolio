@@ -6,7 +6,7 @@
 
 
 
-- :Universidad: Estudiante del décimo ciclo de la carrera de Ingenieria de sistemas de la [Universidad de Lima (UL)]([https://www.utp.edu.pe/](https://www.ulima.edu.pe/)) 
+- :Universidad: Estudiante del décimo ciclo de la carrera de Ingenieria de sistemas de la [Universidad de Lima (UL)](https://www.ulima.edu.pe/)
 - :technologist: Me encanta usar software como solución para cada `problema`.
 - :student: Actualmente estoy terminando mi titulacion 
 - :nerd_face: Siempre `aprendiendo cosas nuevas`.
