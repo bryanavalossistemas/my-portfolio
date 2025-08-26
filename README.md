@@ -84,8 +84,7 @@ Aquí algunos de mis proyectos que podrás explorar en este portafolio:
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
-| 🔗 [Factzil](https://factzil.com/) | Este es un sistema de facturación electrónica, cuenta con varios módulos como ventas, compras, inventarios | `React` · `Laravel` · `MySql` · `Greenter` |
-| 🔗 [Nombre del Proyecto 2](URL) | Breve descripción destacando el aprendizaje o solución aportada | `Flutter` · `Firebase` |
-| 🔗 [Nombre del Proyecto 3](URL) | Breve descripción breve pero llamativa | `Python` · `FastAPI` |
-
-*(Puedes ir completando con enlaces y detalles de tus proyectos reales)*  
+| 🔗 [Factzil](https://factzil.com/) | Este es un sistema de facturación electrónica, cuenta con varios módulos como ventas, compras, inventarios, transporte y dashboard | `React` · `Laravel` · `MySql` · `Greenter` |
+| 🔗 [GuitarLA](https://sensational-bublanina-922cde.netlify.app/) | Proyecto acerca de una tienda de instrumentos musicales, especialmente de guitarras | `React` · `Tailwindcss` · `TypeScript` |
+| 🔗 [Contador de calorías](https://joyful-biscochitos-c2efc9.netlify.app/) | Este proyecto es un contador de calorías, la data es almacenada en el local storage del navegador | `React` · `TypeScript` · `Tailwindcss` |
+| 🔗 [Planificador de gastos](https://stunning-palmier-13a090.netlify.app/) | Este proyecto sirve para la planificación de tus gastos, puedes categorizar tus gastos y definir un presupuesto | `React` · `TypeScript` · `Tailwindcss` | 
