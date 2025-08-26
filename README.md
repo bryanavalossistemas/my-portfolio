@@ -27,15 +27,16 @@ FRONTED
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)&nbsp;
 ![Tailwind](https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss)&nbsp;
-![ShadCN](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff&style=for-the-badge)&nbsp;
-![Vue](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat&logo=vuedotjs&logoColor=white)&nbsp;
+![ShadCN](https://img.shields.io/badge/shadcn/ui-000000?style=flat&logo=shadcnui&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)&nbsp;
 
 BACKEND
 
 ![Laravel](https://img.shields.io/badge/Laravel-05122A?style=flat&logo=laravel&logoColor=red)&nbsp;
+![Next.js](https://img.shields.io/badge/NextJs-000000?style=flat&logo=next.js&logoColor=white)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Nest.js](https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 
 DATABASE
