@@ -76,3 +76,16 @@ SISTEMAS OPERATIVOS
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)&nbsp;
+
+---
+
+## 🚀 Proyectos Destacados
+Aquí algunos de mis proyectos que podrás explorar en este portafolio:
+
+| Proyecto | Descripción | Tecnologías |
+|----------|-------------|-------------|
+| 🔗 [Nombre del Proyecto 1](URL) | Breve descripción de qué hace y por qué es importante | `React` · `Node.js` · `MongoDB` |
+| 🔗 [Nombre del Proyecto 2](URL) | Breve descripción destacando el aprendizaje o solución aportada | `Flutter` · `Firebase` |
+| 🔗 [Nombre del Proyecto 3](URL) | Breve descripción breve pero llamativa | `Python` · `FastAPI` |
+
+*(Puedes ir completando con enlaces y detalles de tus proyectos reales)*  
