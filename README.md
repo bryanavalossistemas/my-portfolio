@@ -29,11 +29,11 @@ FRONTED
 ![Tailwind](https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss)&nbsp;
 ![ShadCN](https://img.shields.io/badge/shadcn/ui-000000?style=flat&logo=shadcnui&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)&nbsp;
 
 BACKEND
 
 ![Laravel](https://img.shields.io/badge/Laravel-05122A?style=flat&logo=laravel&logoColor=red)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)&nbsp;
 ![Next.js](https://img.shields.io/badge/NextJs-000000?style=flat&logo=next.js&logoColor=white)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Nest.js](https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white)&nbsp;
@@ -41,22 +41,21 @@ BACKEND
 
 DATABASE
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-000?&logo=SQLite)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)&nbsp;
 
 Version Control & CI/CD
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![GitLab](https://img.shields.io/badge/-GitLab-000?&logo=GitLab)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 
 ENTORNO
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important)
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)&nbsp;
+![Netbeans](https://img.shields.io/badge/NetBeans%20IDE-1B6AC6.svg?logo=apache-netbeans-ide&logoColor=white)&nbsp;
 
 DESIGN
 
