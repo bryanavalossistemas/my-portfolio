@@ -11,7 +11,7 @@
 - :student: Actualmente estoy terminando mi bachiller
 - :nerd_face: Siempre `aprendiendo cosas nuevas`.
 - :thinking: Es}stoy abierto a una nueva `oportunidad laboral`, este es [mi cv]().
-- :boom: Puedes visitarme en [MY WEBSITE](https://bryanavalosloaypardo.netlify.app/).
+- :boom: Puedes visitarme en [Mi sitio web](https://bryanavalosloaypardo.netlify.app/).
 <br>
 <br>
 
