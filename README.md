@@ -10,8 +10,8 @@
 - :technologist: Me encanta usar software como solución para cada `problema`.
 - :student: Actualmente estoy terminando mi bachiller
 - :nerd_face: Siempre `aprendiendo cosas nuevas`.
-- :thinking: Es}stoy abierto a una nueva `oportunidad laboral`, este es [mi cv]().
-- :boom: Puedes visitarme en [Mi sitio web](https://bryanavalosloaypardo.netlify.app/).
+- :thinking: Es}stoy abierto a una nueva `oportunidad laboral`, este es [mi cv](https://drive.google.com/file/d/19uFx4dZ9sNJR4Cr0RgRn8T6myn5IP-ue/view?usp=sharing).
+- :boom: Puedes visitarme en [mi sitio web](https://bryanavalosloaypardo.netlify.app/).
 <br>
 <br>
 
