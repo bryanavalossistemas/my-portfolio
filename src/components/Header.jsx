@@ -1,6 +1,6 @@
 import { motion, AnimatePresence } from "framer-motion";
 import { useState } from "react";
-import { FiGithub, FiTwitter, FiLinkedin, FiMenu, FiX } from "react-icons/fi";
+import { FiGithub, FiLinkedin, FiMenu, FiX } from "react-icons/fi";
 import { FaWhatsapp } from "react-icons/fa";
 
 export default function Header() {
@@ -36,10 +36,15 @@ export default function Header() {
         </motion.div>
 
         {/* Navegacion para escritorio */}
-        <nav className="lg:flex hidden space-x-8">
-          {["Inicio", "Sobre Mi", "Proyectos", "Habilidades", "Contacto"].map((item, index) => (
+        <nav className="lg:flex hidden space-x-8 border px-5 py-3">
+          {[
+            { name: "Inicio", href: "#inicio" },
+            { name: "Acerca de mí", href: "#sobre-mi" },
+            { name: "Proyectos", href: "#horizontal-section" },
+            { name: "Contacto", href: "#contacto" },
+          ].map((item, index) => (
             <motion.a
-              key={item}
+              key={item.name}
               initial={{ opacity: 0, y: -20 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{
@@ -49,9 +54,9 @@ export default function Header() {
                 delay: 0.7 + index * 0.2,
               }}
               className="relative text-gray-800 dark:text-gray-200 hover:text-violet-600 dark:hover:text-violet-400 font-medium transition-colors duration-300 group"
-              href="#"
+              href={item.href}
             >
-              {item}
+              {item.name}
               <span className="absolute bottom-0 left-0 w-0 h-0.5 bg-violet-600 group-hover:w-full transition-all duration-300"></span>
             </motion.a>
           ))}
@@ -93,6 +98,17 @@ export default function Header() {
             <FaWhatsapp className="w-5 h-5" />
           </motion.a>
 
+          <motion.a
+            initial={{ opacity: 0, scale: 0.5 }}
+            animate={{ opacity: 1, scale: 1 }}
+            transition={{ delay: 1.3, duration: 0.8 }}
+            href="/pdfs/CV-AVALOS-BRYAN.pdf"
+            download="CV-AvalosLoayPardoBryanJesus.pdf"
+            className="ml-4 px-4 py-2 rounded-xl bg-gradient-to-r from-violet-600 to-violet-400 text-white font-bold hover:from-violet-700 hover:to-purple-700 transition-all duration-500"
+          >
+            Descargar CV
+          </motion.a>
+
           {/* Contratame */}
           <motion.button
             onClick={openContactForm}
@@ -127,9 +143,14 @@ export default function Header() {
         className="md:hidden overflow-hidden bg-white dark:bg-gray-900 shadow-lg px-4 py-5 space-y-5"
       >
         <nav className="flex flex-col space-y-3">
-          {["Inicio", "Sobre Mi", "Proyectos", "Habilidades", "Contacto"].map((item) => (
-            <a onClick={toggleMenu} key={item} className="text-gray-300 font-medium py-2" href="#">
-              {item}
+          {[
+            { name: "Inicio", href: "#inicio" },
+            { name: "Acerca de mí", href: "#sobre-mi" },
+            { name: "Proyectos", href: "#horizontal-section" },
+            { name: "Contacto", href: "#contacto" },
+          ].map((item, index) => (
+            <a onClick={toggleMenu} key={item.name} className="text-gray-300 font-medium py-2" href={item.href}>
+              {item.name}
             </a>
           ))}
         </nav>
@@ -148,7 +169,13 @@ export default function Header() {
               <FaWhatsapp className="h-5 w-5 text-gray-300" />
             </a>
           </div>
-
+          <a
+            href="/pdfs/CV-AVALOS-BRYAN.pdf"
+            download="CV-AvalosLoayPardoBryanJesus.pdf"
+            className="mt-4 block w-full px-4 py-2 rounded-lg bg-gradient-to-r from-violet-600 to-violet-400 font-bold text-center"
+          >
+            Descargar CV
+          </a>
           <button
             onClick={() => {
               toggleMenu();

@@ -82,7 +82,7 @@ export default function ContactSection() {
   }, []);
 
   return (
-    <section ref={sectionRef} className="flex items-center justify-center bg-black relative" style={{ overscrollBehavior: "none" }}>
+    <section id="contacto" ref={sectionRef} className="flex items-center justify-center bg-black relative" style={{ overscrollBehavior: "none" }}>
       {/* Circulo simple */}
       <div
         ref={circleRef}
@@ -99,8 +99,8 @@ export default function ContactSection() {
             !Gracias por llegar hasta aquí!
           </h1>
           <p className="text-black lg:w-[40rem] w-[20rem] absolute sm:mt-3 mt-1 md:scale-[0.1] scale-[0.068]">
-            Soy un apasionado del desarrollo de Aplicaciones, siempre en busca de nuevos desafíos y oportunidades para crecer. Te agradezco por visitar mi
-            portafolio y considerar mi perfil. ¡Espero tener la oportunidad de colaborar contigo pronto!
+            Soy un apasionado del desarrollo de Aplicaciones, siempre en busca de nuevos desafíos y oportunidades para crecer. Te agradezco por
+            visitar mi portafolio y considerar mi perfil. ¡Espero tener la oportunidad de colaborar contigo pronto!
           </p>
           <a
             href="https://wa.me/51915115894?text=Hola%20Bryan"

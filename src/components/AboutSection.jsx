@@ -79,7 +79,7 @@ export default function AboutSection() {
   };
 
   return (
-    <section ref={sectionRef} className="h-screen relative overflow-hidden bg-gradient-to-b from-black to-[#9a74cf50]">
+    <section id="sobre-mi" ref={sectionRef} className="h-screen relative overflow-hidden bg-gradient-to-b from-black to-[#9a74cf50]">
       <div className="absolute inset-0 overflow-hidden">
         {/* Estrellas */}
         {[...Array(10)].map((_, i) => (
@@ -110,11 +110,11 @@ export default function AboutSection() {
         className="absolute lg:bottom-[-20rem] md:bottom-[-10rem] bottom-[-20rem] left-0 w-full flex md:flex-row flex-col justify-between lg:px-24 px-5 items-center opacity-0"
       >
         <h3 className="text-sm md:text-2xl font-bold text-purple-200 z-50 lg:max-w-[45rem] max-w-[27rem] tracking-wider md:mt-20 sm:mt-[-40rem] mt-[-32rem]">
-          Hola, me llamo Bryan y soy estudiante del décimo ciclo de la carrera de Ingeniería de Sistemas en la Universidad de Lima, ubicado en el décimo superior. A lo
-          largo de mi formación he aplicado mis conocimientos en proyectos reales de desarrollo web full-stack, incluyendo la implementación de un ERP
-          y soluciones de automatización para procesos empresariales. Me apasiona crear software útil, funcional y escalable. Me adapto con facilidad
-          a entornos colaborativos, disfruto resolver problemas técnicos y estoy comprometido con seguir aprendiendo y mejorando en cada etapa del
-          desarrollo profesional.
+          Hola, me llamo Bryan y soy estudiante del décimo ciclo de la carrera de Ingeniería de Sistemas en la Universidad de Lima, ubicado en el
+          décimo superior. A lo largo de mi formación he aplicado mis conocimientos en proyectos reales de desarrollo web full-stack, incluyendo la
+          implementación de un ERP y soluciones de automatización para procesos empresariales. Me apasiona crear software útil, funcional y escalable.
+          Me adapto con facilidad a entornos colaborativos, disfruto resolver problemas técnicos y estoy comprometido con seguir aprendiendo y
+          mejorando en cada etapa del desarrollo profesional.
         </h3>
 
         <img className="lg:h-[40rem] md:h-[25rem] h-[20rem] mix-blend-lighten" src="images/me.jpg" alt="imagen de perfil" />
