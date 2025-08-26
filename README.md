@@ -24,14 +24,10 @@ FRONTED
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![SCSS](https://img.shields.io/badge/-SCSS-000?&logo=Sass)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![Tailwind](https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss)&nbsp;
-![Material-UI](https://img.shields.io/badge/-Material--UI-000?&logo=Material-UI)&nbsp;
-![jQuery](https://img.shields.io/badge/-jQuery-222222?style=flat&logo=jQuery&logoColor=0769AD)&nbsp;
-![Chart.js](https://img.shields.io/badge/-Chart.js-000?&logo=Chart.js)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&logoColor=007ACC)&nbsp;
+![Tailwind](https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss)&nbsp;
+![ShadCN](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff&style=for-the-badge)&nbsp;
 ![Vue](https://img.shields.io/badge/-Vue.js-4fc08d?style=flat&logo=vuedotjs&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)&nbsp;
