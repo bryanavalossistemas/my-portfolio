@@ -1,12 +1,12 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mí
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 
 
-- :Universidad: Estudiante egeresado de la carrera de Ingenieria de software de la [Universidad tecnologica del Perú (UTP)](https://www.utp.edu.pe/) 
+- :Universidad: Estudiante del décimo ciclo de la carrera de Ingenieria de sistemas de la [Universidad de Lima (UL)]([https://www.utp.edu.pe/](https://www.ulima.edu.pe/)) 
 - :technologist: Me encanta usar software como solución para cada `problema`.
 - :student: Actualmente estoy terminando mi titulacion 
 - :nerd_face: Siempre `aprendiendo cosas nuevas`.
