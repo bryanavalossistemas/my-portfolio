@@ -83,7 +83,7 @@ SISTEMAS OPERATIVOS
 Aquí algunos de mis proyectos que podrás explorar en este portafolio:
 
 | Proyect | Repositorio | Descripción | Tecnologías |
-|----------|-------------|-------------|
+|----------|-------------|-------------|-------------|
 | 🔗 [Factzil](https://factzil.com/) | (https://factzil.com/) | Este es un sistema de facturación electrónica, cuenta con varios módulos como ventas, compras, inventarios, transporte y dashboard | `React` · `Laravel` · `MySql` · `Greenter` |
 | 🔗 [UpTask](https://uptask-frontend-pi-seven.vercel.app/) | (https://factzil.com/) | Este es un gestor de Proyecto, donde puedes tener colaboradores, tareas, notas y estados en las tareas | `React` · `Express` · `TypeScript` · `MongoDB` |
 | 🔗 [GuitarLA](https://sensational-bublanina-922cde.netlify.app/) | (https://factzil.com/) | Proyecto acerca de una tienda de instrumentos musicales, especialmente de guitarras | `React` · `Tailwindcss` · `TypeScript` |
