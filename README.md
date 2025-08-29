@@ -82,7 +82,7 @@ SISTEMAS OPERATIVOS
 ## 🚀 Proyectos Destacados
 Aquí algunos de mis proyectos que podrás explorar en este portafolio:
 
-| Proyect | Repositorio | Descripción | Tecnologías |
+| WEB | Repositorio | Descripción | Tecnologías |
 |----------|-------------|-------------|-------------|
 | 🔗 [Factzil](https://factzil.com/) | [Factzil](https://github.com/bryanavalossistemas?tab=repositories&q=factsil&type=&language=&sort=) | Este es un sistema de facturación electrónica, cuenta con varios módulos como ventas, compras, inventarios, transporte y dashboard | `React` · `Laravel` · `MySql` · `Greenter` |
 | 🔗 [UpTask](https://uptask-frontend-pi-seven.vercel.app/) | [UpTask](https://github.com/bryanavalossistemas?tab=repositories&q=uptask&type=&language=&sort=) | Este es un gestor de Proyecto, donde puedes tener colaboradores, tareas, notas y estados en las tareas | `React` · `Express` · `TypeScript` · `MongoDB` |
