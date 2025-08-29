@@ -19,7 +19,7 @@ export default function ProjectsSection() {
       href: "https://sistema.factzil.com/auth/login?demo=true",
       hrefRepo: "https://github.com/bryanavalossistemas?tab=repositories&q=factsil&type=&language=&sort=",
     },
-		{
+    {
       id: 2,
       title: "UpTask - Gestor de Proyectos",
       imageSrc: "/images/project-2-UpTask.png",
